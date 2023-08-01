@@ -1,8 +1,8 @@
 # Chefs-Choice-Video-Blender
 Extract Frames from Videos &amp; Merges Frames into Videos. Good for timelapse or tools like Stable Diffusion
 
-![alt text](https://github.com/Jukari2003/Chefs-Choice-Video-Blender/blob/main/Supporting%20Docs/Chef's%20Choice%20Guide.PNG$raw=true)
-![alt text](https://github.com/Jukari2003/Chefs-Choice-Video-Blender/blob/main/Supporting%20Docs/Chef's%20Choice%20Guide.PNG)
+![alt text](https://github.com/Jukari2003/Chefs-Choice-Video-Blender/blob/main/Supporting%20Docs/Chef's%20Choice%20Guide.PNG?raw=true)
+
 
     Usage Instructions:
         - Download Chefs-Choice-Video-Blender-main.zip from GitHub

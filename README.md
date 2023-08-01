@@ -21,7 +21,7 @@ Extract Frames from Videos &amp; Merges Frames into Videos. Good for timelapse o
         - Right Click on "Chef's Choice Video Blender.ps1"
         - Click "Edit"     (This should open up Bullet Blender in Powershell ISE)
         - Once PowerShell ISE is opened. Click the Green Play Arrow.
-        - Download FFmpeg [FFmpeg](https://www.ffmpeg.org/download.html)
+        - Download FFmpeg [FFmpeg](https://www.ffmpeg.org/download.html) 
         - Install/Extract FFmpeg to desired location
         - Select the FFmpeg.exe via interface
         - Success

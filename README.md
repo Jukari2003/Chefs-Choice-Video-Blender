@@ -5,11 +5,10 @@ Extract Frames from Videos &amp; Merges Frames into Videos. Good for timelapse o
 
 
 
-   Use Cases:
+      Use Cases:
        - Timelapse generations
        - 3rd party Batch frame/image modifications
        - AI Generative batch image tools (e.g. Stable Diffusion) 
-       
     Install Instructions:
         - Download Chefs-Choice-Video-Blender-main.zip from GitHub
             - Top Right Hand Corner Click "Code"

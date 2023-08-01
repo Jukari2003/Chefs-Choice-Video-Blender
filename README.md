@@ -5,11 +5,15 @@ Extract Frames from Videos &amp; Merges Frames into Videos. Good for timelapse o
 
 
 
-      Use Cases:
+
+
+
+     Use Cases:
        - Timelapse generations
        - 3rd party Batch frame/image modifications
        - AI Generative batch image tools (e.g. Stable Diffusion) 
-    Install Instructions:
+       
+     Install Instructions:
         - Download Chefs-Choice-Video-Blender-main.zip from GitHub
             - Top Right Hand Corner Click "Code"
             - Select "Download Zip"
@@ -19,7 +23,7 @@ Extract Frames from Videos &amp; Merges Frames into Videos. Good for timelapse o
         - Once PowerShell ISE is opened. Click the Green Play Arrow.
         - Success!
 
-    Possible Errors:
+      Possible Errors:
         - Execution-Policy 
             - Some systems may prevent you from executing the script even in PowerShell ISE.
                 -   On a Home Computer: Run PowerShell ISE or PowerShell as an administrator
